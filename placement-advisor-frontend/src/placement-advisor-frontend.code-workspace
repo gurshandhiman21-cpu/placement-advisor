@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../placement-advisor-backend"
+		}
+	],
+	"settings": {}
+}
